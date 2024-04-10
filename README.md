@@ -52,7 +52,7 @@ This repository contains the source code of a web application for skin cancer de
 <p align="center">
 <img src="https://github.com/Francisco-Guillen/SkinCancerDetector/assets/83434031/de8bd139-c2e3-45d4-84c4-61377117380c" width="600">
 <br>
-  Figure 2: ROC Curves
+  Figure 2: ROC Curves and AUC
 </p>
 
 ## Refferences

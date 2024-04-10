@@ -3,7 +3,7 @@
 This repository contains the source code of a web application for skin cancer detection using machine learning. The application is capable of receiving images of skin lesions and classifying them into three categories: Basal Cell Carcinoma (Cancer), Melanoma (Cancer), and Nevus (Non-Cancerous).
 
 <p align="center">
-<img src="https://github.com/Francisco-Guillen/SkinCancerDetector/assets/83434031/c6ed8d7f-f3d8-430f-8908-8f4ee3abecc9" width="600">
+<img src="https://github.com/Francisco-Guillen/SkinCancerDetector/assets/83434031/c6ed8d7f-f3d8-430f-8908-8f4ee3abecc9" width="900">
 <br>
   Figure 1: Web Application Example
 </p>

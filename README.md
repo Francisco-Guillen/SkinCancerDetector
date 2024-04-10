@@ -48,14 +48,16 @@ This repository contains the source code of a web application for skin cancer de
 - `templates/`: Directory containing HTML files used to render web pages.
 - `static/`: Directory containing CSS and JavaScript files used to style HTML pages.
 
-## Refferences
-- [Skin Cancer Detection Using Transfer Learning Deep CNN Approach](https://www.youtube.com/watch?v=t43VdRgWH98&t=139s)
-- **BCN_20000 Dataset**: (c) Department of Dermatology, Hospital Clínic de Barcelona
-- **HAM10000 Dataset**: (c) by ViDIR Group, Department of Dermatology, Medical University of Vienna; [DOI: 10.1038/sdata.2018.161](https://doi.org/10.1038/sdata.2018.161)
-- **MSK Dataset**: (c) Anonymous; [arXiv:1710.05006](https://arxiv.org/abs/1710.05006), [arXiv:1902.03368](https://arxiv.org/abs/1902.03368) 
 ## Model Evaluation
 <p align="center">
 <img src="https://github.com/Francisco-Guillen/SkinCancerDetector/assets/83434031/de8bd139-c2e3-45d4-84c4-61377117380c" width="600">
 <br>
   Figure 2: ROC Curves
 </p>
+
+## Refferences
+- [Skin Cancer Detection Using Transfer Learning Deep CNN Approach](https://www.youtube.com/watch?v=t43VdRgWH98&t=139s)
+- **BCN_20000 Dataset**: (c) Department of Dermatology, Hospital Clínic de Barcelona
+- **HAM10000 Dataset**: (c) by ViDIR Group, Department of Dermatology, Medical University of Vienna; [DOI: 10.1038/sdata.2018.161](https://doi.org/10.1038/sdata.2018.161)
+- **MSK Dataset**: (c) Anonymous; [arXiv:1710.05006](https://arxiv.org/abs/1710.05006), [arXiv:1902.03368](https://arxiv.org/abs/1902.03368) 
+
